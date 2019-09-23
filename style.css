@@ -1,0 +1,23 @@
+header {
+  background-color: black;
+  margin-bottom: 5px;
+}
+
+.menu {
+  color: white;
+  text-transform: uppercase;
+  }
+
+.slider-div{
+text-indent: 65px;
+}
+
+p{
+  text-align: justify;
+}
+
+footer{
+  text-align: center;
+  background-color: black;
+  color: white;
+}
